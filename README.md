@@ -6,7 +6,7 @@
 大部分已解決問題會被自動歸類在 `closed issued` 之下，所以別忘記先查看已經關閉的 `Issues`。
 作業快寫完, 早早出去玩!
 
-## Quick Link (點擊前往)
+## 快速搜尋 (點擊前往)
 |tags|closed|open|all|
 |:-:|:-:|:-:|:-:|
 |<a href="https://github.com/compiler-s20/discussion/issues?q=is%3Aissue+label%3A%22announcement+%3Atada%3A%22"><img width=150 src="./res/ann-label.png" alt="link to announcements"/></a>|wip|wip|wip|
