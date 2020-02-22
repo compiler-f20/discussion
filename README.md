@@ -1,6 +1,7 @@
-# 討論區
+# discussion
 
-## Quick Links
+<a href="https://github.com/compiler-s20/discussion/issues?utf8=%E2%9C%93&q=is%3Aissue"><img src="./res/landing-img.png"></img> <- click to see all issues</a>
+
 |announcements|solved|unsolved|
 |:-:|:-:|:-:|
 |<a href="https://github.com/compiler-s20/discussion/issues?q=is%3Aissue+label%3A%22announcement+%3Atada%3A%22"><img height=50 src="./res/ann-label.png" alt="link to announcements"/></a>|<a href="https://github.com/compiler-s20/discussion/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22solved+%3Acake%3A%22+"><img height=50 src="./res/solved-label.png" alt="link to solved"/></a>|<a href="https://github.com/compiler-s20/discussion/issues?q=is%3Aissue+label%3A%22unsolved+%3Araising_hand%3A%22"><img height=50 src="./res/unsolved-label.png" alt="link to unsolved"/></a>|
