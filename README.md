@@ -12,7 +12,7 @@
 
 大部分已解決問題會被自動歸類在 `closed issued` 之下，所以別忘記先查看已經關閉的 `Issues`。
 
-新進同學請依照 [新手教學](https://github.com/compiler-s20/discussion/issues/1) 實際跑一次發問流程。
+新進同學請依照 [新手教學](https://github.com/compiler-f20/discussion/issues/2) 實際跑一次發問流程。
 
 ### 簡易索引
 
@@ -20,15 +20,15 @@
 
 |代稱|意義|
 |:-:|:-:|
-|@2020-teaching-team|所有助教跟老師|
-|@2029-students|所有學生|
+|@compiler-f20/2020f-teaching-team|所有助教跟老師|
+|@compiler-f20/2020f-students|所有學生|
 
 ##### 教授，助教個別帳號
 
 |人名|Handle|
 |:-:|:-:|
 |游逸平(教授)|@ypyou|
-|陳奕安(助教)|@ianre657|
-|趙益揚(助教)|@Naetw|
-|謝宇勝(助教)|@YSHsieh7777|
-|Liu, An-Chi(助教)|@tigercosmos|
+|鍾弈言(助教)|@Eric860730|
+|楊子侑(助教)|@chrisPyr|
+|郭雅然(助教)|@ran-ablaze|
+|洪佳賢(助教)|@5fe6eb50c7aa19f9|
